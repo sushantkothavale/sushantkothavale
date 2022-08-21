@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushantkothavale
-- 👀 I’m interested in compuer science, technology, coding.
+- 👀 I’m interested in Compuer Science, Technology, Coding.
 - 🌱 I’m currently learning Spring Boot & Microservices
 - 📫 How to reach me: Send an email on **kothavale.sushant@gmail.com**
 
